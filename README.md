@@ -5,7 +5,7 @@ I'm Biel, a Telecom Systems Engineer specialized in Cybersecurity and Red Team o
 You can find my LinkedIn and my Hack The Box writeups below:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biel-sans-estap%C3%A9/)
-[![Cybersec Blog & Writeups](https://img.shields.io/badge/Website-Cybersec_Blog_%26_Writeups-000000?style=flat-square&logo=kalilinux&logoColor=47d147)](https://tatakiflow.github.io/)
+[![Cybersec Blog & Writeups](https://img.shields.io/badge/Website-Cybersec_Blog_%26_Writeups-000000?style=flat-square&logo=gnubash&logoColor=47d147)](https://tatakiflow.github.io/)
 
 ### What I do:
 - **Red Team & Offensive Security:** Finding vulnerabilities and breaking things before the bad guys do.
