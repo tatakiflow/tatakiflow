@@ -1,6 +1,6 @@
 Hi! 👋
 
-I'm Biel, a Telecom Systems Engineer specializing in Cybersecurity and Red Team operations. I develop security solutions and, whenever I have free time, I love building my own ideas and applications. I'm currently pursuing a Master's degree in Cybersecurity and Privacy at UOC and focusing on programming with agentic workflows (Spec-Driven Development).
+I'm Biel, a Telecom Systems Engineer specialized in Cybersecurity and Red Team operations. I develop security solutions and, whenever I have free time, I love building my own ideas and applications. I'm currently pursuing a Master's degree in Cybersecurity and Privacy at UOC and focusing on programming with agentic workflows (Spec-Driven Development).
 
 You can find my LinkedIn and my Hack The Box writeups below:
 
